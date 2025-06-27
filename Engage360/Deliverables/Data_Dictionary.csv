@@ -1,0 +1,47 @@
+Facebook Profile,Instagram Profile,Instagram Posts,Facebook Posts
+Facebook Profile - date description,Instagram Profile - date description,Instagram Posts - date description,
+Facebook Profile - page_followers description,,,
+Facebook Profile - total_impressions description,,,
+Facebook Profile - organic_impressions description,,,
+Facebook Profile - total_page_reactions description,,,
+Facebook Profile - total_reach description,,,
+Facebook Profile - %_of_reach_from_paid description,,,
+Facebook Profile - page_post_engagements description,,,
+Facebook Profile - total_likes description,,,
+Facebook Profile - new_likes description,,,
+Facebook Profile - unlikes description,,,
+Facebook Profile - net_likes description,,,
+Facebook Profile - rowhash description,Instagram Profile - rowhash description,Instagram Posts - rowhash description,
+,,,Facebook Posts - post_id description
+,,,Facebook Posts - post_creation_date description
+,,,Facebook Posts - post_message description
+,,,Facebook Posts - post_type description
+,,,Facebook Posts - post_impressions description
+,,,Facebook Posts - post_organic_reach description
+,,,Facebook Posts - __of_reach_from_paid description
+,,,Facebook Posts - __of_reach_from_organic description
+,,,Facebook Posts - post_reach description
+,,,Facebook Posts - shares_on_posts description
+,,,Facebook Posts - total_post_reactions description
+,,,Facebook Posts - post_photo_views description
+,,Instagram Posts - video_views description,Facebook Posts - video_views description
+,,,Facebook Posts - comments_on_posts description
+,,,Facebook Posts - shares_on_shares description
+,,,Facebook Posts - organic_video_views description
+,,,Facebook Posts - post_link_clicks description
+,,,Facebook Posts - ad6948312c6b1d6d7d4248adf20c90abfb0157a04c9699d18ae49f5f0e18c478 description
+,Instagram Profile - profile_impressions description,,
+,Instagram Profile - shares description,Instagram Posts - shares description,
+,Instagram Profile - engagement description,,
+,Instagram Profile - profile_visits description,,
+,Instagram Profile - profile_reach description,,
+,Instagram Profile - reel_shares description,,
+,Instagram Profile - new_followers description,,
+,,Instagram Posts - media_id description,
+,,Instagram Posts - media_caption description,
+,,Instagram Posts - media_product_type description,
+,,Instagram Posts - media_impressions description,
+,,Instagram Posts - media_reach description,
+,,Instagram Posts - like_count description,
+,,Instagram Posts - comments_count description,
+,,Instagram Posts - unique_saves description,
